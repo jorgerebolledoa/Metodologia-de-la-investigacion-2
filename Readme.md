@@ -95,10 +95,3 @@ Tiempo de ejecución: 0.000002 segundos
 * **Método 3**: ofrece un buen balance entre simplicidad y eficiencia, evitando factoriales completos.
 * **Método 8**: aunque más complejo, proporciona un cálculo exacto basado en propiedades aritméticas fundamentales.
 
----
-
-## 6. Estructura del Código
-
-* **Funciones auxiliares**: factorial iterativo y recursivo, generación de primos, cálculo de exponentes primos.
-* **Funciones principales**: cada método se encuentra encapsulado en una función independiente.
-* **Función `main`**: recibe los parámetros de entrada, selecciona el algoritmo, ejecuta el cálculo y mide el tiempo de ejecución con `clock()`.
